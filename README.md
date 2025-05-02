@@ -9,8 +9,6 @@
 Sou um desenvolvedor **Full Stack** com foco na criação de soluções digitais usando Node.js e stacks modernas.  
 🇧🇷 Brasileiro, atualmente morando em **Maringá/PR**.  
 
----
-
 ### 🚀 Projeto em destaque  
 
 #### [📱 BeautyApp](https://github.com/lBorD/BeautyApp)  
@@ -22,8 +20,6 @@ Atualmente em desenvolvimento para um **MVP funcional**.
 🔹 **Infraestrutura:** Hospedado no Render (futuros planos para AWS)  
 🔗 Repositório: [github.com/lBorD/BeautyApp](https://github.com/lBorD/BeautyApp)  
 
----
-
 ### 🛠️ Tecnologias que utilizo  
 
 * **Frontend:** React, React Native, Angular, Vue, Cordova, Expo  
@@ -32,13 +28,9 @@ Atualmente em desenvolvimento para um **MVP funcional**.
 * **DevOps & Infra:** Docker, AWS, Render, GitLab CI  
 * **Outros:** Git, GitLab, Cody AI  
 
----
-
 ### 💼 Certificações  
 
 Acesse minhas certificações no [Credly](https://www.credly.com/users/gabriel-ribeiro.809a261a).  
-
----
 
 ### 📫 Contato  
 
@@ -53,8 +45,6 @@ Acesse minhas certificações no [Credly](https://www.credly.com/users/gabriel-r
 I’m a **Full Stack Developer** focused on building digital solutions with Node.js and modern stacks.  
 🇧🇷 Brazilian, currently based in **Maringá/PR, Brazil**.  
 
----
-
 ### 🚀 Featured Project  
 
 #### [📱 BeautyApp](https://github.com/lBorD/BeautyApp)  
@@ -66,8 +56,6 @@ Currently developing a **functional MVP**.
 🔹 **Infrastructure:** Hosted on Render (future plans for AWS)  
 🔗 Repository: [github.com/lBorD/BeautyApp](https://github.com/lBorD/BeautyApp)  
 
----
-
 ### 🛠️ Technologies I Use  
 
 * **Frontend:** React, React Native, Angular, Vue, Cordova, Expo  
@@ -76,13 +64,9 @@ Currently developing a **functional MVP**.
 * **DevOps & Infra:** Docker, AWS, Render, GitLab CI  
 * **Others:** Git, GitLab, Cody AI  
 
----
-
 ### 💼 Certifications  
 
 Check my certifications on [Credly](https://www.credly.com/users/gabriel-ribeiro.809a261a).  
-
----
 
 ### 📫 Contact  
 
